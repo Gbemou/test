@@ -1,0 +1,91 @@
+/* FLEX */
+.flex{
+    display:flex
+}
+.jcc{
+    justify-content:center;
+}
+.iac{
+    align-items:center;
+}
+.ga-5{
+    gap:5px;
+}
+.ga-510{
+    gap:10px;
+}
+.ga-15{
+    gap:15px;
+}
+.ga-20{
+    gap:20px;
+}
+.ga-25{
+    gap:25px;
+}
+/* POSITION */
+.relative{
+    position:relative;
+}
+.absolute{
+    position:absolute;
+}
+.fixed{
+    position:fixed;
+}
+.sticky{
+    position:sticky;
+}
+/* TIPOGRAPHIE */
+.none{
+    display:none;
+}
+.block{
+    display:block;
+}
+#menu ul {
+    list-style:none;
+    margin:0;
+    padding:0;
+}
+.bold{
+    font-weight:bold;
+}
+.slider img{
+    width:100%;
+    height:80vh;
+}
+/* MARGIN */
+.m-5{
+    margin:5px;
+}
+.m-10{
+    margin:10px;
+}
+.m-15{
+    margin:15px;
+}
+.m-20{
+    margin:20px;
+}
+/* PADDING */
+.m-5{
+    padding:5px;
+}
+.p-10{
+    padding:10px;
+}
+.p-15{
+    padding:15px;
+}
+.p-20{
+    padding:20px;
+}
+
+/* lES ICONS */
+.dropdown::after{
+    content:"\1F893";
+    padding-left:5px;
+    position:relative;
+    top:5px;
+}
